@@ -22,6 +22,7 @@ dnf5 install -y \
 	podlet \
 	micro \
 	ramalama \
+	sudo \
 	wget \
 
 dnf5 install -y https://github.com/lemonade-sdk/lemonade/releases/download/v11.0.0/lemonade-server-11.0.0-fc44.x86_64.rpm \
